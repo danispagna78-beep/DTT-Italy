@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-id="Rai.1.HD..101.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/1-rai1hd.png"tvg-chno="1"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai.2.HD..102.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/2-rai2hd.png"tvg-chno="2"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai.3.HD..103.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/3-rai3hd.png"tvg-chno="3"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rete.4.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/4-rete4hd.png"tvg-chno="4"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -42,7 +42,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai.4..5021.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/21-rai4hd.png"tvg-chno="21"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Iris.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/22-irishd.png"tvg-chno="22"group-title="Mediaset":http-user-agent="HbbTV1.6.1",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -50,15 +50,15 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai.5..5023.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/23-rai5hd.png"tvg-chno="23"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai.Movie..5024.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/24-raimoviehd.png"tvg-chno="24"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai.Premium..5025.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/25-raipremiumhd.png"tvg-chno="25"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="cielo.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/26-cielohd.png"tvg-chno="26"group-title="Sky":http-user-agent="HbbTV/1.6.1",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -127,7 +127,7 @@ https://alwaysdata-api.zappr.stream/k2.mpd
 
 #EXTINF:-1 tvg-id="Rai.Gulp..5042.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/42-raigulphd.png"tvg-chno="42"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai.Yoyo..5043.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/43-raiyoyohd.png"tvg-chno="43"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -149,7 +149,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 
 #EXTINF:-1 tvg-id="Rai.News.24..508.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/48-rainews24hd.png"tvg-chno="48"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Italia.2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/49-italia2hd.png"tvg-chno="49"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Italia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -169,7 +169,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 
 #EXTINF:-1 tvg-id="Rai.Storia..5054.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/54-raistoriahd.png"tvg-chno="54"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Mediaset.Extra.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/55-mediasetextrahd.png"tvg-chno="55"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -179,13 +179,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai.Scuola..5057.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/57-raiscuolahd.png"tvg-chno="57"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/57-raiscuolahd.png"tvg-chno="57"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="RAI.Sport...227.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/58-raisporthd.png"tvg-chno="58"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Motor.Trend.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/59-discoveryturbo.png"tvg-chno="59"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Motor Trend
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -265,92 +265,92 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rai3.it Valle d'Aosta"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/801-rai3tgrvalledaosta.png"tvg-chno="801"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Valle d'Aosta
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32909&output=16&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Piemonte"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/802-rai3tgrpiemonte.png"tvg-chno="802"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Piemonte
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89763&output=16&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Liguria"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/803-rai3tgrliguria.png"tvg-chno="803"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Liguria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Lombardia"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/804-rai3tgrlombardia.png"tvg-chno="804"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Lombardia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72916&output=16&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Veneto"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/805-rai3tgrveneto.png"tvg-chno="805"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Veneto
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=17190&output=16&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Trentino Alto Adige Bolzano"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/806-rai3tgrbolzano.png"tvg-chno="806"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Trentino Alto Adige Bolzano
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32907&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Trentino Alto Adige Trento"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/807-rai3tgrtrento.png"tvg-chno="807"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Trentino Alto Adige Trento
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Südtirol HD"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/808-rai3tgrsudtirolhd.png"tvg-chno="808"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Südtirol HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Friuli Venezia Giulia"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/809-rai3tgrfriulivenetogiulia.png"tvg-chno="809"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Friuli Venezia Giulia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72926&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Furlanija Krajina (Rai 3 Bis)"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/810-rai3tgrfurlanijakrajina.png"tvg-chno="810"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Furlanija Krajina (Rai 3 Bis)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=87837&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Emilia-Romagna"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/811-rai3tgremliaromagna.png"tvg-chno="811"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Emilia-Romagna
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=681&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Toscana"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/812-rai3tgrtoscana.png"tvg-chno="812"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Toscana
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35264&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Marche"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/813-rai3tgrmarche.png"tvg-chno="813"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Marche
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72386&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Umbria"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/814-rai3tgrumbria.png"tvg-chno="814"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Umbria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=32908&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Lazio"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/815-rai3tgrlazio.png"tvg-chno="815"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Lazio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Abruzzo"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/816-rai3tgrabruzzo.png"tvg-chno="816"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Abruzzo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4152&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Molise"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/817-rai3tgrmolise.png"tvg-chno="817"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Molise
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72387&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Campania"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/818-rai3tgrcampania.png"tvg-chno="818"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Campania
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4120&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Puglia"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/819-rai3tgrpuglia.png"tvg-chno="819"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Puglia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=89765&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Basilicata"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/820-rai3tgrbasilicata.png"tvg-chno="820"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Basilicata
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4153&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Calabria"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/821-rai3tgrcalabria.png"tvg-chno="821"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Calabria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=24271&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Sardegna"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/822-rai3tgrsardegna.png"tvg-chno="822"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Sardegna
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=18852&output=16&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai3.it Sicilia"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/823-rai3tgrsicilia.png"tvg-chno="823"group-title="Rai TGR":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Sicilia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35260&output=16&forceUserAgent=raiplayappletv
