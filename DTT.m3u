@@ -191,7 +191,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png""tvg-chno="60"group-title="Altro":http-user-agent="HbbTV/1.6.1",Sportitalia Plus
+#EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png"tvg-chno="60"group-title="Altro":http-user-agent="HbbTV/1.6.1",Sportitalia Plus
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
