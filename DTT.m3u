@@ -195,21 +195,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="il61.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-il61.png"tvg-chno="61"group-title="Altro":http-user-agent="HbbTV/1.6.1",IL 61
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/62-donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="HbbTV/1.6.1",Donna TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/64-supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="HbbTV/1.6.1",Supertennis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/65-almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="HbbTV/1.6.1",ALMA TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/66-radio105.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
