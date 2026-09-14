@@ -119,12 +119,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="K2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/41-k2.png"tvg-chno="41"group-title="Discovery":http-user-agent="HbbTV/1.6.1",K2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQC6XSmjcoRe8iYEn2hOxQ","k":"yw46wlWbRTfP_NEwZE5SFw"},{"kty":"oct","kid":"AQENuxWvlaFwhtHCHVFY3w","k":"OhZ9feY2Hu_nXW1OygOqKg"},{"kty":"oct","kid":"AQLsBBfgFZ1FE5SCi2CLKA","k":"7tcJwS2SAgCdxtEFyVeggA"},{"kty":"oct","kid":"AQN4enM5g7MeGKq6krcUFQ","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQRyEFpSRLpLVBs7Q4Vb-w","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQVjUf-6ej5ynBIcf2KFCQ","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-https://alwaysdata-api.zappr.stream/k2.mpd
-
 #EXTINF:-1 tvg-id="Rai.Gulp..5042.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/42-raigulphd.png"tvg-chno="42"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
@@ -132,12 +126,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 #EXTINF:-1 tvg-id="Rai.Yoyo..5043.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/43-raiyoyohd.png"tvg-chno="43"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Frisbee.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/44-frisbee.png"tvg-chno="44"group-title="Discovery":http-user-agent="HbbTV/1.6.1",Frisbee
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQAMVWEU7UcsSv_JHK8brA","k":"drHCQ7VPSJE5cKkisXwsfg"},{"kty":"oct","kid":"AQGFkO6HGNUmw9qW8iIW_A","k":"sM3ayIEFjZzF4FfbrH7YJg"},{"kty":"oct","kid":"AQIlmxEJE13ElhlIVzgM-A","k":"DuyZ3rWdxpkcbHzqTEGmSg"},{"kty":"oct","kid":"AQOJKgeBsipyucUCHO53iA","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQTcypJ0L9K8vbbQua-hmQ","k":"AAAAAAAAAAAAAAAAAAAAAA"},{"kty":"oct","kid":"AQVRTwR-ANNnB_hXM0Z1QA","k":"AAAAAAAAAAAAAAAAAAAAAA"}],"type":"temporary"}
-https://alwaysdata-api.zappr.stream/frisbee.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/46-cartoonito.png"tvg-chno="46"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
