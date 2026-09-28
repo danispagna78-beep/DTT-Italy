@@ -219,6 +219,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&for
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
 
+#EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/246-radio24.png"tvg-chno="246"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio24-IlSole24OreTV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
 #EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/258-radiofreccia.png"tvg-chno="258"group-title="Radio":http-user-agent="HbbTV/1.6.1",RADIOFRECCIA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdng1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
