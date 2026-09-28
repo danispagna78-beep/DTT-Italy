@@ -74,7 +74,7 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="LA7.CINEMA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/29-la7cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
 #EXTINF:-1 tvg-id="La.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/30-la5hd.png"tvg-chno="30"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -195,6 +195,10 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="Virgin.Radio.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/68-virginradio.png"tvg-chno="68"group-title="Radio":http-user-agent="HbbTV/1.6.1",VIRGIN RADIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
 #EXTINF:-1 tvg-id="Deejay.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/69-deejay.png"tvg-chno="69"group-title="Radio":http-user-agent="HbbTV/1.6.1",Deejay TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -210,10 +214,6 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/202-rairadio2.png"tvg-chno="202"group-title="Radio":http-user-agent="Mozilla/5.0 (m3u-ip.tv 3.0.9) Android",Rai Radio 2 Visual
 #EXTVLCOPT:Mozilla/5.0 (m3u-ip.tv 3.0.9) Android
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-
-#EXTINF:-1 tvg-id="Virgin.Radio.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/257-virginradio.png"tvg-chno="257"group-title="Radio":http-user-agent="HbbTV/1.6.1",VIRGIN RADIO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/258-radiofreccia.png"tvg-chno="258"group-title="Radio":http-user-agent="HbbTV/1.6.1",RADIOFRECCIA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
