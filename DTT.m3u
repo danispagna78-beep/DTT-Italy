@@ -12,19 +12,19 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Rete.4.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/4-rete4hd.png"tvg-chno="4":http-user-agent="HbbTV/1.6.1",Rete 4
+#EXTINF:-1 tvg-id="Rete.4.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/4-rete4hd.png"tvg-chno="4":http-user-agent="HbbTV/1.6.1",Rete4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Canale.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale 5
+#EXTINF:-1 tvg-id="Canale.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia.1.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia 1
+#EXTINF:-1 tvg-id="Italia.1.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="LA7.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/7-la7hd.png"tvg-chno="7":http-user-agent="HbbTV/1.6.1",La7
+#EXTINF:-1 tvg-id="LA7.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/7-la7hd.png"tvg-chno="7":http-user-agent="HbbTV/1.6.1",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
@@ -36,7 +36,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="20.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/20-20hd.png"tvg-chno="20":http-user-agent="HbbTV/1.6.1",20 Mediaset
+#EXTINF:-1 tvg-id="20.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/20-20hd.png"tvg-chno="20":http-user-agent="HbbTV/1.6.1",20Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
@@ -64,19 +64,19 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="27.Twentyseven.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/27-27hd.png"tvg-chno="27":http-user-agent="HbbTV/1.6.1",27 Twentyseven
+#EXTINF:-1 tvg-id="27.Twentyseven.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/27-27hd.png"tvg-chno="27":http-user-agent="HbbTV/1.6.1",27Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="TV2000.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/28-tv2000.png"tvg-chno="28":http-user-agent="HbbTV/1.6.1",TV 2000
+#EXTINF:-1 tvg-id="TV2000.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/28-tv2000.png"tvg-chno="28":http-user-agent="HbbTV/1.6.1",TV2000
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-id="LA7.CINEMA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/29-la7cinema.png"tvg-chno="29":http-user-agent="HbbTV/1.6.1",La7 Cinema
+#EXTINF:-1 tvg-id="LA7.CINEMA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/29-la7cinema.png"tvg-chno="29":http-user-agent="HbbTV/1.6.1",LA7CINEMA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
-#EXTINF:-1 tvg-id="La.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/30-la5hd.png"tvg-chno="30":http-user-agent="HbbTV/1.6.1",La 5
+#EXTINF:-1 tvg-id="La.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/30-la5hd.png"tvg-chno="30":http-user-agent="HbbTV/1.6.1",La5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
@@ -103,19 +103,19 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Channel.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/37-discovery.png"tvg-chno="37":http-user-agent="HbbTV/1.6.1",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/37-discovery.png"tvg-chno="37":http-user-agent="HbbTV/1.6.1",Discovery
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Giallo.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/38-giallohd.png"tvg-chno="38":http-user-agent="HbbTV/1.6.1",Giallo
+#EXTINF:-1 tvg-id="Giallo.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/38-giallohd.png"tvg-chno="38":http-user-agent="HbbTV/1.6.1",GIALLO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Top.Crime.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/39-topcrimehd.png"tvg-chno="39":http-user-agent="HbbTV/1.6.1",Top Crime
+#EXTINF:-1 tvg-id="Top.Crime.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/39-topcrimehd.png"tvg-chno="39":http-user-agent="HbbTV/1.6.1",TOPcrime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Boing.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/40-boing.png"tvg-chno="40":http-user-agent="HbbTV/1.6.1",BOING
+#EXTINF:-1 tvg-id="Boing.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/40-boing.png"tvg-chno="40":http-user-agent="HbbTV/1.6.1",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
@@ -123,7 +123,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Rai.Yoyo..5043.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/43-raiyoyohd.png"tvg-chno="43":http-user-agent="HbbTV/1.6.1",Rai Yoyo
+#EXTINF:-1 tvg-id="Rai.Yoyo..5043.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/43-raiyoyohd.png"tvg-chno="43":http-user-agent="HbbTV/1.6.1",Rai YoYo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 
@@ -139,7 +139,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Italia.2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/49-italia2hd.png"tvg-chno="49":http-user-agent="HbbTV/1.6.1",Italia 2
+#EXTINF:-1 tvg-id="Italia.2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/49-italia2hd.png"tvg-chno="49":http-user-agent="HbbTV/1.6.1",Mediaset Italia2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
@@ -147,7 +147,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="TGCom.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/51-tgcom24hd.png"tvg-chno="51":http-user-agent="HbbTV/1.6.1",TGCOM 24
+#EXTINF:-1 tvg-id="TGCom.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/51-tgcom24hd.png"tvg-chno="51":http-user-agent="HbbTV/1.6.1",TGCOM24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
@@ -163,7 +163,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/56-hgtv.png"tvg-chno="56":http-user-agent="HbbTV/1.6.1",HGTV – Home & Garden Tv
+#EXTINF:-1 tvg-id="HGTV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/56-hgtv.png"tvg-chno="56":http-user-agent="HbbTV/1.6.1",HGTV – Home&Garden
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
@@ -175,19 +175,23 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Motor.Trend.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/59-discoveryturbo.png"tvg-chno="59":http-user-agent="HbbTV/1.6.1",Turbo
+#EXTINF:-1 tvg-id="Motor.Trend.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/59-discoveryturbo.png"tvg-chno="59":http-user-agent="HbbTV/1.6.1",Discovery Turbo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png"tvg-chno="60":http-user-agent="HbbTV/1.6.1",Sportitalia Plus
+#EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png"tvg-chno="60":http-user-agent="HbbTV/1.6.1",SPORTITALIA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/64-supertennis.png"tvg-chno="64":http-user-agent="HbbTV/1.6.1",SuperTennis
+#EXTINF:-1 tvg-id="Solocalcio.it.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-sportitaliasolocalcio.png"tvg-chno="61":http-user-agent="HbbTV/1.6.1",Solo Calcio
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/64-supertennis.png"tvg-chno="64":http-user-agent="HbbTV/1.6.1",SUPERTENNIS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/66-radio105.png"tvg-chno="66":http-user-agent="HbbTV/1.6.1",Radio 105 TV
+#EXTINF:-1 tvg-id="Radio.105.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/66-radio105.png"tvg-chno="66":http-user-agent="HbbTV/1.6.1",RADIO 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 
@@ -195,7 +199,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Virgin.Radio.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/68-virginradio.png"tvg-chno="68":http-user-agent="HbbTV/1.6.1",Virgin Radio TV
+#EXTINF:-1 tvg-id="Virgin.Radio.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/68-virginradio.png"tvg-chno="68":http-user-agent="HbbTV/1.6.1",VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
@@ -207,31 +211,31 @@ https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/s
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-id="RadioKissKiss.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/158-kisskiss.png"tvg-chno="158":http-user-agent="HbbTV/1.6.1",Radio KISS KISS TV
+#EXTINF:-1 tvg-id="RadioKissKiss.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/158-kisskiss.png"tvg-chno="158":http-user-agent="HbbTV/1.6.1",RADIO KISS KISS TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RaiRadio2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/202-rairadio2.png"tvg-chno="202":http-user-agent="http-user-agent=HbbTV/1.6.1",Rai Radio 2 Visual Radio
+#EXTINF:-1 tvg-id="RaiRadio2.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/202-rairadio2.png"tvg-chno="202":http-user-agent="http-user-agent=HbbTV/1.6.1",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Manga.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/236-manga.png"tvg-chno="236":http-user-agent="HbbTV/1.6.1",MAN-GA
+#EXTINF:-1 tvg-id="Manga.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/236-manga.png"tvg-chno="236":http-user-agent="HbbTV/1.6.1",Man-ga
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
 
-#EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/246-radio24.png"tvg-chno="246":http-user-agent="HbbTV/1.6.1",Radio24-IlSole24OreTV
+#EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/246-radio24.png"tvg-chno="246":http-user-agent="HbbTV/1.6.1",RADIO24TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
-#EXTINF:-1 tvg-id="BeJoyKids.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/247-bejoykids.png"tvg-chno="247":http-user-agent="HbbTV/1.6.1",BeJoy.Kids
+#EXTINF:-1 tvg-id="BeJoyKids.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/247-bejoykids.png"tvg-chno="247":http-user-agent="HbbTV/1.6.1",BeJoy.kids
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.paroledivita.org/bejoy.m3u8
 
-#EXTINF:-1 tvg-id="GamberoRosso.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/257-gamberorosso.png"tvg-chno="257":http-user-agent="HbbTV/1.6.1",Gambero Rosso
+#EXTINF:-1 tvg-id="GamberoRosso.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/257-gamberorosso.png"tvg-chno="257":http-user-agent="HbbTV/1.6.1",GAMBERO ROSSO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cdndirector.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=h5bGwJYFZy9AO66NpfTxbhTni9e637DUu_SUPhn3MewWKmiD4Rmw0UuwfufSVb3G
 
-#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/258-radiofreccia.png"tvg-chno="258":http-user-agent="HbbTV/1.6.1",RadioFreccia
+#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/258-radiofreccia.png"tvg-chno="258":http-user-agent="HbbTV/1.6.1",RADIOFRECCIA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdng1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
@@ -239,25 +243,22 @@ https://streamcdng1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tu
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stream.rdstv.radio/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioZeta.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/266-radiozeta.png"tvg-chno="266":http-user-agent="HbbTV/1.6.1",Radio ZETA
+#EXTINF:-1 tvg-id="RadioZeta.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/266-radiozeta.png"tvg-chno="266":http-user-agent="HbbTV/1.6.1",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVSerieA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/899-radiotvseriea.png"tvg-chno="899":http-user-agent="HbbTV/1.6.1",Radio TV Serie A
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 
-#EXTINF:-1 tvg-id="Solocalcio.it.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/900-sportitaliasolocalcio.png"tvg-chno="900":http-user-agent="HbbTV/1.6.1",Sportitalia SOLOCALCIO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RMC.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/901-rmc.png"tvg-chno="901":http-user-agent="HbbTV/1.6.1",Radio Montecarlo TV
+#EXTINF:-1 tvg-id="RMC.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/901-rmc.png"tvg-chno="901":http-user-agent="HbbTV/1.6.1",RADIO MONTE CARLO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="M2OTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/902-m2o.png"tvg-chno="902":http-user-agent="HbbTV/1.6.1",M2O TV
+#EXTINF:-1 tvg-id="M2OTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/902-m2o.png"tvg-chno="902":http-user-agent="HbbTV/1.6.1",m2o TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RADIONORBA.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/903-radionorba.png"tvg-chno="903":http-user-agent="HbbTV/1.6.1",Radio Norba Tv
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/903-radionorba.png"tvg-chno="903":http-user-agent="HbbTV/1.6.1",Radionorba TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
