@@ -187,6 +187,10 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/63-radio24.png"tvg-chno="63":http-user-agent="HbbTV/1.6.1",IlSole24ORE TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
 #EXTINF:-1 tvg-id="SuperTennis.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/64-supertennis.png"tvg-chno="64":http-user-agent="HbbTV/1.6.1",SUPERTENNIS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -222,10 +226,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&for
 #EXTINF:-1 tvg-id="Manga.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/236-manga.png"tvg-chno="236":http-user-agent="HbbTV/1.6.1",Man-ga
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
-
-#EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/246-radio24.png"tvg-chno="246":http-user-agent="HbbTV/1.6.1",RADIO24TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
 #EXTINF:-1 tvg-id="BeJoyKids.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/247-bejoykids.png"tvg-chno="247":http-user-agent="HbbTV/1.6.1",BeJoy.kids
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
