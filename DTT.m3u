@@ -299,15 +299,15 @@ https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playli
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/809-rai3tgrfriulivenetogiulia.png"tvg-chno="809":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Friuli Venezia Giulia
+#EXTINF:-1 tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/809-rai3tgrfriuliveneziagiulia.png"tvg-chno="809":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Friuli Venezia Giulia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/810-rai3tgrfurlanijajulijskakrajina.png"tvg-chno="810":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Furlanija Krajina
+#EXTINF:-1 tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/810-rai3tgrfurlanijajulijskakrajina.png"tvg-chno="810":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Furlanija Julijska Krajina
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/811-rai3tgremliaromagna.png"tvg-chno="811":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Emilia-Romagna
+#EXTINF:-1 tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/811-rai3tgremiliaromagna.png"tvg-chno="811":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Emilia Romagna
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
 
