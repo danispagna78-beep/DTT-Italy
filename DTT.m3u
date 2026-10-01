@@ -250,19 +250,19 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/266-radiozeta.png"tvg-chno="266":http-user-agent="HbbTV/1.6.1",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVSerieA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/900-radiotvseriea.png"tvg-chno="900":http-user-agent="HbbTV/1.6.1",Radio TV Serie A
+#EXTINF:-1 tvg-id="RadioTVSerieA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/700-radiotvseriea.png"tvg-chno="700":http-user-agent="HbbTV/1.6.1",Radio TV Serie A
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 
 
-#EXTINF:-1 tvg-id="RMC.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/901-radiomontecarlotv.png"tvg-chno="901":http-user-agent="HbbTV/1.6.1",Radio Monte Carlo TV
+#EXTINF:-1 tvg-id="RMC.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/701-radiomontecarlotv.png"tvg-chno="701":http-user-agent="HbbTV/1.6.1",Radio Monte Carlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="M2OTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/902-m2otv.png"tvg-chno="902":http-user-agent="HbbTV/1.6.1",m2o TV
+#EXTINF:-1 tvg-id="M2OTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/702-m2otv.png"tvg-chno="702":http-user-agent="HbbTV/1.6.1",m2o TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RADIONORBA.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/903-radionorbatv.png"tvg-chno="903":http-user-agent="HbbTV/1.6.1",Radionorba TV
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/703-radionorbatv.png"tvg-chno="703":http-user-agent="HbbTV/1.6.1",Radionorba TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
