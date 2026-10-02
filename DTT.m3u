@@ -287,7 +287,7 @@ https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombard
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rai 3 TGR Alto Adige" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/806-rai3tgrtrentinoaltoadigebolzano.png"tvg-chno="806":,Rai 3 TGR Alto Adige
+#EXTINF:-1 tvg-name="Rai 3 TGR Alto Adige" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/806-rai3tgrtrentinoaltoadigebolzano.png"tvg-chno="806":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Alto Adige
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
 
