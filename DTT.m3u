@@ -187,6 +187,10 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-name"Primavera" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/62-primaveratv.png"tvg-chno="62":http-user-agent="HbbTV/1.6.1",Primavera TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Radio24TV.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/63-ilsole24oretv.png"tvg-chno="63":http-user-agent="HbbTV/1.6.1",IlSole24ORE TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
@@ -253,7 +257,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 tvg-id="RadioTVSerieA.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/700-radiotvseriea.png"tvg-chno="700":http-user-agent="HbbTV/1.6.1",Radio TV Serie A
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
-
 
 #EXTINF:-1 tvg-id="RMC.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/701-radiomontecarlotv.png"tvg-chno="701":http-user-agent="HbbTV/1.6.1",Radio Monte Carlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
