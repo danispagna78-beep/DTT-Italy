@@ -275,13 +275,17 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/704-acisporttv.png"tvg-chno="704":http-user-agent="HbbTV/1.6.1",ACI Sport TV
+#EXTINF:-1 tvg-id="ACISportTv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/704-acisporttv.png"tvg-chno="704":http-user-agent="HbbTV/1.6.1",ACI Sport TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
 
-#EXTINF:-1 tvg-id="TopGear.com" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/705-topgear.png"tvg-chno="705":http-user-agent="HbbTV/1.6.1",Top Gear
+#EXTINF:-1 tvg-id="TopGear.com"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/705-topgear.png"tvg-chno="705":http-user-agent="HbbTV/1.6.1",Top Gear
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBAclassics.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/706-lbaclassics.png"tvg-chno="706":http-user-agent="HbbTV/1.6.1",LBA Classics
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d1g94345moskj7.cloudfront.net/master.m3u8?stoken=legabasket-samsungit-Okd7nvrsthOcSbIHffrVdrn6
 
 #EXTINF:-1 tvg-name="Rai 3 TGR Valle d'Aosta"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/801-rai3tgrvalledaosta.png"tvg-chno="801":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Valle d'Aosta
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
