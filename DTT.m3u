@@ -287,6 +287,10 @@ https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1g94345moskj7.cloudfront.net/master.m3u8?stoken=legabasket-samsungit-Okd7nvrsthOcSbIHffrVdrn6
 
+#EXTINF:-1 tvg-id="italianfishingtv.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/707-italianfishingtv.png"tvg-chno="707":http-user-agent="HbbTV/1.6.1",Italian Fishing TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d2cz19kw3l63dx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52hbmsz1pyype/index.m3u8
+
 #EXTINF:-1 tvg-name="Rai 3 TGR Valle d'Aosta"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/801-rai3tgrvalledaosta.png"tvg-chno="801":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Valle d'Aosta
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
