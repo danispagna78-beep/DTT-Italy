@@ -16,11 +16,11 @@ https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Canale.5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale5
+#EXTINF:-1 tvg-id="Canale5.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia.1.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia1
+#EXTINF:-1 tvg-id="Italia1.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
