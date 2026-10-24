@@ -12,19 +12,19 @@ https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/4-rete4hd.png"tvg-chno="4":http-user-agent="HbbTV/1.6.1",Rete 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/4-rete4hd.png"tvg-chno="4":http-user-agent="HbbTV/1.6.1",Rete4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/5-canale5hd.png"tvg-chno="5":http-user-agent="HbbTV/1.6.1",Canale5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/6-italia1hd.png"tvg-chno="6":http-user-agent="HbbTV/1.6.1",Italia1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/7-la7hd.png"tvg-chno="7":http-user-agent="HbbTV/1.6.1",La 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/7-la7hd.png"tvg-chno="7":http-user-agent="HbbTV/1.6.1",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
@@ -36,7 +36,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/20-20mediasethd.png"tvg-chno="20":http-user-agent="HbbTV/1.6.1",20 Mediaset
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/20-20mediasethd.png"tvg-chno="20":http-user-agent="HbbTV/1.6.1",20Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
