@@ -150,7 +150,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 
 #EXTINF:-1 tvg-id="TGCom.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/51-tgcom24hd.png"tvg-chno="51":http-user-agent="HbbTV/1.6.1",TGCOM24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/52-dmax.png"tvg-chno="52":http-user-agent="HbbTV/1.6.1",DMAX
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
