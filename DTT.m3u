@@ -58,7 +58,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 
 #EXTINF:-1 tvg-id="raipremium"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/25-raipremium.png"tvg-chno="25":http-user-agent="HbbTV/1.6.1",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-id="cielo"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/26-cielohd.png"tvg-chno="26":http-user-agent="HbbTV/1.6.1",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
