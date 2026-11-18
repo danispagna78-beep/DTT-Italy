@@ -455,11 +455,3 @@ https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatura.it"tvg-chno="918":http-user-agent="HbbTV/1.6.1",Pluto TV Natura
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport1.it"tvg-chno="919":http-user-agent="HbbTV/1.6.1",Eurosport 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://88.212.7.14/live/esp1_hun/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport2.it"tvg-chno="920":http-user-agent="HbbTV/1.6.1",Eurosport 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://88.212.7.14/live/esp2_hun/index.m3u8
