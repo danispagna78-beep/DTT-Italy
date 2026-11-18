@@ -258,7 +258,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 
 #EXTINF:-1 tvg-id="AUTOMOTO.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/510-automoto.png"tvg-chno="510":http-user-agent="HbbTV/1.6.1",AutoMoto
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
+https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/aff6198a-4843-4e91-9d2a-6e595e77f3a0/0.m3u8
 
 #EXTINF:-1 tvg-id="rdstvseriea"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/700-radiotvseriea.png"tvg-chno="700":http-user-agent="HbbTV/1.6.1",Radio TV Serie A
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -383,3 +383,83 @@ https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/
 #EXTINF:-1 tvg-id="Rai3TGR.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/823-rai3tgrsicilia.png"tvg-chno="823":http-user-agent="HbbTV/1.6.1",Rai 3 TGR Sicilia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerie.it"tvg-chno="901":http-user-agent="HbbTV/1.6.1",Pluto TV Serie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilm.it"tvg-chno="902":http-user-agent="HbbTV/1.6.1",Pluto TV Film
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmAzione.it"tvg-chno="903":http-user-agent="HbbTV/1.6.1",Pluto TV Film Azione
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHorror.it"tvg-chno="904":http-user-agent="HbbTV/1.6.1",Pluto TV Horror
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmThriller.it"tvg-chno="905":http-user-agent="HbbTV/1.6.1",Pluto TV Film Thriller
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.it"tvg-chno="906":http-user-agent="HbbTV/1.6.1",Pluto TV Film Romantici
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.it"tvg-chno="907":http-user-agent="HbbTV/1.6.1",Pluto TV Film Commedia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmStorici.it"tvg-chno="908":http-user-agent="HbbTV/1.6.1",Pluto TV Film Storici
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.it"tvg-chno="909":http-user-agent="HbbTV/1.6.1",Pluto TV Film Cinema Italiano
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://c4d2cd4a.wurl.com/4300.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.it"tvg-chno="910":http-user-agent="HbbTV/1.6.1",Pluto TV Paranormal
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerieSCiFi.it"tvg-chno="911":http-user-agent="HbbTV/1.6.1",Pluto TV Serie Sci-Fi
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.it"tvg-chno="912":http-user-agent="HbbTV/1.6.1",Pluto TV Teen
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSport.it"tvg-chno="913":http-user-agent="HbbTV/1.6.1",Pluto TV Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.it"tvg-chno="914":http-user-agent="HbbTV/1.6.1",Pluto TV Cucina
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViaggi.it"tvg-chno="915":http-user-agent="HbbTV/1.6.1",Pluto TV Viaggi
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.it"tvg-chno="916":http-user-agent="HbbTV/1.6.1",Pluto TV Documentari
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStoria.it"tvg-chno="917":http-user-agent="HbbTV/1.6.1",Pluto TV Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNatura.it"tvg-chno="918":http-user-agent="HbbTV/1.6.1",Pluto TV Natura
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.it"tvg-chno="919":http-user-agent="HbbTV/1.6.1",Eurosport 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://88.212.7.14/live/esp1_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.it"tvg-chno="920":http-user-agent="HbbTV/1.6.1",Eurosport 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://88.212.7.14/live/esp2_hun/index.m3u8
