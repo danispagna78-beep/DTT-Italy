@@ -459,3 +459,31 @@ https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatura.it"tvg-chno="919":http-user-agent="HbbTV/1.6.1",Pluto TV Natura
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFilmTop.it"tvg-chno="920":http-user-agent="HbbTV/1.6.1",Rakuten TV Film Top
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-5984-playout/644b84dc-3110-4a2c-b64b-f444cb89baf1/4.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVAzione.it"tvg-chno="921":http-user-agent="HbbTV/1.6.1",Rakuten TV Azione
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVCommedia.it"tvg-chno="922":http-user-agent="HbbTV/1.6.1",Rakuten TV Commedia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://comedy-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDrama.it"tvg-chno="922":http-user-agent="HbbTV/1.6.1",Rakuten TV Drama
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVRomance.it"tvg-chno="923":http-user-agent="HbbTV/1.6.1",Rakuten TV Romance
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://romance-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFantascienza.it"tvg-chno="924":http-user-agent="HbbTV/1.6.1",Rakuten TV Fantascienza
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVCrime.it"tvg-chno="925":http-user-agent="HbbTV/1.6.1",Rakuten TV Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
