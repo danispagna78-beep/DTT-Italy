@@ -412,46 +412,50 @@ https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVFilmStorici.it"tvg-chno="908":http-user-agent="HbbTV/1.6.1",Pluto TV Film Storici
+#EXTINF:-1 tvg-id="PlutoTVWEstern.it"tvg-chno="908":http-user-agent="HbbTV/1.6.1",Pluto TV Western
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.it"tvg-chno="909":http-user-agent="HbbTV/1.6.1",Pluto TV Film Cinema Italiano
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://c4d2cd4a.wurl.com/4300.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVParanormal.it"tvg-chno="910":http-user-agent="HbbTV/1.6.1",Pluto TV Paranormal
+#EXTINF:-1 tvg-id="PlutoTVFilmStorici.it"tvg-chno="910":http-user-agent="HbbTV/1.6.1",Pluto TV Film Storici
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.it"tvg-chno="911":http-user-agent="HbbTV/1.6.1",Pluto TV Paranormal
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVSerieSCiFi.it"tvg-chno="911":http-user-agent="HbbTV/1.6.1",Pluto TV Serie Sci-Fi
+#EXTINF:-1 tvg-id="PlutoTVSerieSCiFi.it"tvg-chno="912":http-user-agent="HbbTV/1.6.1",Pluto TV Serie Sci-Fi
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTeen.it"tvg-chno="912":http-user-agent="HbbTV/1.6.1",Pluto TV Teen
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSport.it"tvg-chno="913":http-user-agent="HbbTV/1.6.1",Pluto TV Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVCucina.it"tvg-chno="914":http-user-agent="HbbTV/1.6.1",Pluto TV Cucina
+#EXTINF:-1 tvg-id="PlutoTVTeen.it"tvg-chno="914":http-user-agent="HbbTV/1.6.1",Pluto TV Teen
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.it"tvg-chno="915":http-user-agent="HbbTV/1.6.1",Pluto TV Cucina
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVViaggi.it"tvg-chno="915":http-user-agent="HbbTV/1.6.1",Pluto TV Viaggi
+#EXTINF:-1 tvg-id="PlutoTVViaggi.it"tvg-chno="916":http-user-agent="HbbTV/1.6.1",Pluto TV Viaggi
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVDocumentari.it"tvg-chno="916":http-user-agent="HbbTV/1.6.1",Pluto TV Documentari
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.it"tvg-chno="917":http-user-agent="HbbTV/1.6.1",Pluto TV Documentari
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVStoria.it"tvg-chno="917":http-user-agent="HbbTV/1.6.1",Pluto TV Storia
+#EXTINF:-1 tvg-id="PlutoTVStoria.it"tvg-chno="918":http-user-agent="HbbTV/1.6.1",Pluto TV Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVNatura.it"tvg-chno="918":http-user-agent="HbbTV/1.6.1",Pluto TV Natura
+#EXTINF:-1 tvg-id="PlutoTVNatura.it"tvg-chno="919":http-user-agent="HbbTV/1.6.1",Pluto TV Natura
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
