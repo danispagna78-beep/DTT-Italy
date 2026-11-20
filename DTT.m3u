@@ -184,7 +184,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://origin-004.b-cdn.net/sportitalia/sihd_abr2/origin/sihd_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SamsungSolocalcio.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-solocalcio.png"tvg-chno="61":http-user-agent="HbbTV/1.6.1",SI SoloCalcio
+#EXTINF:-1 tvg-id="sportitaliasolocalcio"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-solocalcio.png"tvg-chno="61":http-user-agent="HbbTV/1.6.1",SI SoloCalcio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 
