@@ -144,7 +144,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="skytg24"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/50-skytg24.png"tvg-chno="50":http-user-agent="HbbTV/1.6.1",Sky TG24
+#EXTINF:-1 tvg-id="Sky.TG24.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/50-skytg24.png"tvg-chno="50":http-user-agent="HbbTV/1.6.1",Sky TG24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
@@ -180,11 +180,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-id="sportitalia"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png"tvg-chno="60":http-user-agent="HbbTV/1.6.1",SPORTITALIA
+#EXTINF:-1 tvg-id="Sportitalia.HD.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/60-sportitalia.png"tvg-chno="60":http-user-agent="HbbTV/1.6.1",SPORTITALIA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://origin-004.b-cdn.net/sportitalia/sihd_abr2/origin/sihd_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sportitaliasolocalcio"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-solocalcio.png"tvg-chno="61":http-user-agent="HbbTV/1.6.1",SI SoloCalcio
+#EXTINF:-1 tvg-id="Solocalcio.it.it"tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/DTT-Italy/refs/heads/main/Loghi/61-solocalcio.png"tvg-chno="61":http-user-agent="HbbTV/1.6.1",SI SoloCalcio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 
